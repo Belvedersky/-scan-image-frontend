@@ -3,7 +3,7 @@
 > Home scanner web-ui for https://github.com/Belvedersky/scan-image-backend
 
 TODO:
-1. soket-io отрисовать процесс сканирования
+1. socket.io отрисовать процесс сканирования
 2. кнопочку сохранить как
 3. слайдер true/false сохранить на яндекс диске
 4. vue router и сups с загрузкой файла на печать
