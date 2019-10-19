@@ -1,6 +1,6 @@
 # scanner
 
-> Home scanner web-ui for https://github.com/Belvedersky/scan-image-backend
+Home scanner web-ui for https://github.com/Belvedersky/scan-image-backend
 
 TODO:
 
